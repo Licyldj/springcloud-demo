@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/discovery/consul-discovery/consul-discovery.iml" filepath="$PROJECT_DIR$/discovery/consul-discovery/consul-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery/eureka-discovery/eureka-discovery.iml" filepath="$PROJECT_DIR$/discovery/eureka-discovery/eureka-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/provider-service-demo/provider-service-demo.iml" filepath="$PROJECT_DIR$/service/provider-service-demo/provider-service-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service-consul-discovery/service-consul-discovery.iml" filepath="$PROJECT_DIR$/service/service-consul-discovery/service-consul-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service-zookeeper-discovery/service-zookeeper-discovery.iml" filepath="$PROJECT_DIR$/service/service-zookeeper-discovery/service-zookeeper-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud-demo.iml" filepath="$PROJECT_DIR$/.idea/springcloud-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery/zookeeper-discovery/zookeeper-discovery.iml" filepath="$PROJECT_DIR$/discovery/zookeeper-discovery/zookeeper-discovery.iml" />
+    </modules>
+  </component>
+</project>
