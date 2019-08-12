@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/service/provider-service-demo/pom.xml" />
         <option value="$PROJECT_DIR$/service/service-consul-discovery/pom.xml" />
         <option value="$PROJECT_DIR$/service/service-zookeeper-discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/gateway-zuul1x/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/gateway-zuul2x/pom.xml" />
       </list>
     </option>
   </component>

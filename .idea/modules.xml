@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/discovery/consul-discovery/consul-discovery.iml" filepath="$PROJECT_DIR$/discovery/consul-discovery/consul-discovery.iml" />
       <module fileurl="file://$PROJECT_DIR$/discovery/eureka-discovery/eureka-discovery.iml" filepath="$PROJECT_DIR$/discovery/eureka-discovery/eureka-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway-zuul1x/gateway-zuul1x.iml" filepath="$PROJECT_DIR$/gateway/gateway-zuul1x/gateway-zuul1x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway-zuul2x/gateway-zuul2x.iml" filepath="$PROJECT_DIR$/gateway/gateway-zuul2x/gateway-zuul2x.iml" />
       <module fileurl="file://$PROJECT_DIR$/service/provider-service-demo/provider-service-demo.iml" filepath="$PROJECT_DIR$/service/provider-service-demo/provider-service-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/service/service-consul-discovery/service-consul-discovery.iml" filepath="$PROJECT_DIR$/service/service-consul-discovery/service-consul-discovery.iml" />
       <module fileurl="file://$PROJECT_DIR$/service/service-zookeeper-discovery/service-zookeeper-discovery.iml" filepath="$PROJECT_DIR$/service/service-zookeeper-discovery/service-zookeeper-discovery.iml" />

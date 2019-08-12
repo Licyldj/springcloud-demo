@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="consul-discovery" />
         <module name="eureka-discovery" />
+        <module name="gateway-zuul1x" />
+        <module name="gateway-zuul2x" />
         <module name="provider-service-demo" />
         <module name="service-consul-discovery" />
         <module name="service-zookeeper-discovery" />
@@ -17,6 +19,8 @@
     <bytecodeTargetLevel>
       <module name="consul-discovery" target="1.8" />
       <module name="eureka-discovery" target="1.8" />
+      <module name="gateway-zuul1x" target="1.8" />
+      <module name="gateway-zuul2x" target="1.8" />
       <module name="provider-service-demo" target="1.8" />
       <module name="service-consul-discovery" target="1.8" />
       <module name="service-zookeeper-discovery" target="1.8" />
@@ -27,6 +31,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="consul-discovery" options="-parameters" />
       <module name="eureka-discovery" options="-parameters" />
+      <module name="gateway-zuul1x" options="-parameters" />
+      <module name="gateway-zuul2x" options="-parameters" />
       <module name="provider-service-demo" options="-parameters" />
       <module name="service-consul-discovery" options="-parameters" />
       <module name="service-zookeeper-discovery" options="-parameters" />

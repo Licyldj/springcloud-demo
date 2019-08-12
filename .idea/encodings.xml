@@ -4,6 +4,8 @@
     <file url="file://$PROJECT_DIR$/discovery/consul-discovery" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/discovery/eureka-discovery" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/discovery/zookeeper-discovery" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway/gateway-zuul1x" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway/gateway-zuul2x" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service/provider-service-demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service/service-consul-discovery" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service/service-zookeeper-discovery" charset="UTF-8" />
